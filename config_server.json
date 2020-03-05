@@ -1,0 +1,8 @@
+{
+	"count": 1,
+	"git": {
+		"cloneOnStart":"true",
+		"skipSslValidation":"true",
+		"uri": "https://github.com/SagarVikas/cf-config-server.git"
+	}
+}
